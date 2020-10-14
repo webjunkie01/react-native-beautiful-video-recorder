@@ -19,7 +19,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "moment": "2.24.0"
   },
   "peerDependencies": {
     "react": "16.9.0",
